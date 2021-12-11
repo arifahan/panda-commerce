@@ -19,3 +19,20 @@
 .container {
     margin-bottom: 100px;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: rgb(214, 28, 205);
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories img {
+    width: 120px;
+}
