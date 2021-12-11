@@ -20,7 +20,7 @@
     margin-bottom: 100px;
 }
 .cat1{
-    background-color: orange;
+    background-image: linear-gradient(to right, rgb(243, 181, 11), rgba(228, 170, 44, 0.945));
 }
 .cat2{
     background-color: rgb(214, 28, 205);
