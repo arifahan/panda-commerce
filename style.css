@@ -36,3 +36,8 @@
 .categories img {
     width: 120px;
 }
+.card {
+    box-shadow: 5px 5px 10px #aaaaaa;
+    border: none;
+    border-radius: 10px;
+}
