@@ -40,4 +40,17 @@
     box-shadow: 5px 5px 10px #aaaaaa;
     border: none;
     border-radius: 10px;
+    min-height: 500px;
+}
+.card h2, h5{
+    font-weight: bold;
+}
+.card-bag{
+    min-height: 620px;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
 }
